@@ -1,0 +1,10 @@
+{
+  "name": "seafoam",
+  "private": true,
+  "type": "module",
+  "description": "Stylized seafoam for fluid simulations: research and proof of concept",
+  "scripts": {
+    "start": "node poc/serve.mjs",
+    "test": "node --test poc/tests/*.test.mjs"
+  }
+}
